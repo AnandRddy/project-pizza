@@ -138,7 +138,7 @@ img {
 header {
   height: 3rem;
   top: 0;
-  background-color: var(--light-black);
+  background-color: #ff0000;
   position: sticky;
   position: -webkit-sticky; /* Safari */
   z-index: 999;

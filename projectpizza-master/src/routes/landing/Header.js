@@ -97,7 +97,7 @@ export default class Header extends React.Component {
                     : {}
                 }
                 className="txt-white"
-                to="/blog"
+                to="/about"
               >
                 {/* Blog
               </NavLink>
