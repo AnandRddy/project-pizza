@@ -32,10 +32,10 @@ const MenuSliderCategory = [
     name: 'pizza',
     id: 'pizza',
   },
-  {
-    name: 'sushi',
-    id: 'sushi',
-  },
+  // {
+  //   name: 'sushi',
+  //   id: 'sushi',
+  // },
   {
     name: 'pasta',
     id: 'pasta',

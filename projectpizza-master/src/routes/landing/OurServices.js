@@ -41,10 +41,11 @@ const OurServices = () => {
         <section>
           <h2 className="pop-font">Our Services</h2>
           <p className="pop-font section-description">
-            Pizza Time provides services across all states - various foods and
-            drinks, you choose! What makes us special is our teams of
+            Various foods and drinks, you choose! 
+            <br/> What makes us special is our teams of
             professionals with extensive knowledge of all cuisine that we have to
-            offer.
+            offer. <br/>
+            
           </p>
         </section>
         <section className="services-grid  flex-container flex-column">

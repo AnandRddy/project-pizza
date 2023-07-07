@@ -54,7 +54,7 @@ const ContactForm = () => {
   }
   return (
     <article className="section-10  flex-container flex-column">
-      <motion.div
+      {/* <motion.div
         className="map"
         initial={{ opacity: 0, translateX: -300 }}
         whileInView={{ opacity: 1, translateX: 0 }}
@@ -77,11 +77,11 @@ const ContactForm = () => {
             </Popup>
           </Marker>
         </MapContainer>
-      </motion.div>
+      </motion.div> */}
 
       {submit && Object.keys(formError).length === 0 ?
         <section className="contact-section-success">
-          <p>We have recieved your message and we will get back to you shortly! 🍕</p>
+          <p>We have recieved your message and we will get back to you shortly! </p>
         </section>
         :
 

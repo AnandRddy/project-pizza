@@ -31,15 +31,15 @@ const ContactUsLanding = () => {
         <img src={PizzaOne} alt="" className="parallax company-details-image-three" />      </motion.div>
       <section className='company-details'>
         <div>
-          <h2>000 (000) 123 4567</h2>
+          <h2>(508)-721-1271 </h2>
           <p>Contact us if you have any questions</p>
         </div>
         <div>
-          <h2>506 Roy Alley 80202 </h2>
-          <p>Colorado, Denver</p>
+          <h2>20 Auburn St.Auburn </h2>
+          <p>Auburn, Massachusetts</p>
         </div>
         <div>
-          <h2>Open Monday-Friday</h2>
+          <h2>Open Monday-Sunday</h2>
           <p>8:00am - 9:00pm</p>
         </div>
       </section>

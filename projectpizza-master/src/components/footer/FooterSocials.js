@@ -12,7 +12,7 @@ const socials = [
   },
   {
     id: 2,
-    href: "",
+    href: "https://github.com/AnandRddy",
     img: Linkedin,
     name: Linkedin
   },

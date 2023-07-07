@@ -51,7 +51,7 @@ export default class Header extends React.Component {
                   isActive
                     ? {
                         textDecoration: 'none',
-                        color: '#ff6240',
+                        color: '#eeff00',
                       }
                     : {}
                 }
@@ -71,7 +71,7 @@ export default class Header extends React.Component {
                   isActive
                     ? {
                         textDecoration: 'none',
-                        color: '#ff6240',
+                        color: '#eeff00',
                       }
                     : {}
                 }
@@ -92,7 +92,7 @@ export default class Header extends React.Component {
                   isActive
                     ? {
                         textDecoration: 'none',
-                        color: '#ff6240',
+                        color: '#eeff00',
                       }
                     : {}
                 }
@@ -112,7 +112,7 @@ export default class Header extends React.Component {
                   isActive
                     ? {
                         textDecoration: 'none',
-                        color: '#ff6240',
+                        color: '#eeff00',
                       }
                     : {}
                 }
@@ -132,7 +132,7 @@ export default class Header extends React.Component {
                   isActive
                     ? {
                         textDecoration: 'none',
-                        color: '#ff6240',
+                        color: '#eeff00',
                       }
                     : {}
                 }

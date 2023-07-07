@@ -36,7 +36,7 @@ export default class StatsPreview extends React.Component {
   render() {
     return (
       <article className="section-7 flex-container flex-column txt-center">
-        <section className="highlights flex-container flex-column">
+        {/* <section className="highlights flex-container flex-column">
           {statsPreview.map((stats) => (
             <div key={stats.id} className="highligh-container">
               <motion.div
@@ -60,7 +60,7 @@ export default class StatsPreview extends React.Component {
               </div>
             </div>
           ))}
-        </section>
+        </section> */}
       </article>
     )
   }
