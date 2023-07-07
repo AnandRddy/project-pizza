@@ -40,7 +40,7 @@ const ContactUsLanding = () => {
         </div>
         <div>
           <h2>Open Monday-Sunday</h2>
-          <p>8:00am - 9:00pm</p>
+          <p>9:00am - 9:00pm</p>
         </div>
       </section>
     </section>
